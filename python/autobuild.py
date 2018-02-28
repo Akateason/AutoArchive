@@ -37,8 +37,8 @@ ARCHIVEPATH = EXPORT_MAIN_DIRECTORY + "/%s%s.xcarchive" %(TARGET,VERSION)
 IPAPATH = EXPORT_MAIN_DIRECTORY + "/%s.ipa" %(TARGET)
 
 #苹果开发者账号
-APPLEID = '861464752@qq.com'
-APPLEPWD = '19900316zXcV'
+APPLEID = ''
+APPLEPWD = ''
 
 # configuration for pgyer
 PGYER_UPLOAD_URL = "http://www.pgyer.com/apiv1/app/upload"

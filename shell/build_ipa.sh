@@ -1,7 +1,4 @@
 #! bin/bash
-#Author:Bruce http://www.heyuan110.com
-#Update Date:2015.06.23
-#Use:命令行进入目录直接执行sh Build+DeployToFir.sh即可完成打包发布到fir.im
 
 export LC_ALL=zh_CN.GB2312;
 export LANG=zh_CN.GB2312
