@@ -20,4 +20,4 @@ requests是Python中给人用的http工具包。
 
 ## Shell tips
 使用方式 
-目录下 sh xxxx.xx
+目录下 使用对应的 sh xxxx.xx
